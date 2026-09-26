@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Middle-Systems/.github/main/profile/logo.png" alt="MiddleSystems" width="380">
+<img src="https://raw.githubusercontent.com/Middle-Systems/.github/main/profile/assets/banner.svg" alt="MiddleSystems" width="420">
+
+**Complex systems. Clear connections.**
 
 **Secure software, APIs, and integrations for the systems in between.**
 
